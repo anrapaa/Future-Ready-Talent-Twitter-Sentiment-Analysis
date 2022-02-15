@@ -1,0 +1,2 @@
+# Future-Ready-Talent-Twitter-Sentiment-Analysis
+I've developed this project for Future Ready Talent Internship. In this particular project we analyze the tweets for a specific hashtag using integration with the logic app. Here, we even use Azure Cognitive Services for text analysis. Azure Logic Apps is an excellent tool for analyzing data for social platforms such as Twitter, LinkedIn, Facebook, etc. It allows automating design workflows using triggers, connectors.
