@@ -8,9 +8,9 @@ Project Description: I've developed this project for Future Ready Talent Interns
 
 
 Primary Azure Technology:
-AI + Machine Learning
-Azure Cognitive Service
-Logic Apps
-Text Analytics
+AI + Machine Learning, 
+ Azure Cognitive Service,
+ Logic Apps,
+ Text Analytics
 
 Project Demo URL: https://drive.google.com/file/d/1XeP8h3TqbBRTqj2nGcHgsOx0lqSylYnc/view?usp=sharing
